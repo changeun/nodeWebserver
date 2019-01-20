@@ -9,13 +9,19 @@
 - 서버로 사용할 컴퓨터에서 서버를 구축할 때 언어로 자바스크립트를 사용할 수 있게 됐다는 말
 - 자바스크립트가 웹브라우저를 벗어나 서버에서도 사용 가능하게 됨
 
-✔️express란
+✔️node.js 설치
+
+- 다운로드 링크 : https://nodejs.org
+- 설치확인 : node -v
+- npm도 자동 설치됨
+
+✔️express.js 란
 - 웹서버를 쉽게 구축할 수 있게하는 프레임워크
 
-✔️express 설치
+✔️express.js 설치
 - mkdir nodeWebserver 
 - cd nodeWebserver
-- npm init
+- npm init // package.json 설치해줌
 - npm install express --save
 
 ✔️라우팅이란
