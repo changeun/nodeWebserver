@@ -46,4 +46,5 @@
 - 서버에 클라이언트가 정보를 전달할 때에는 POST
 
 P.S. 요즘은 express-generator를 이용하여 어플리케이션의 기본구조를 자동으로 생성하는 방법을 이용.
+
      참고링크 : http://html5around.com/wordpress/tutorials/node-js-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/
